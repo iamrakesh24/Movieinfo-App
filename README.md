@@ -1,6 +1,6 @@
 # MovieInfo App
 
-JavaScript/jQuery app that fetches movie data from the OMDb API
+Movielisting Application created using JavaScriptES6,jQuery along with Axios for making HTTP requests to the OMDb API.This app gives all the details about the movie for examole-IMDb rating,casts,date of release etc.
 
 ## Usage
 
